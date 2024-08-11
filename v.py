@@ -1,5 +1,5 @@
 import requests
-dyno = ‘DYNO’
+dyno = 'DYNO'
 class A:
  def der(self, url):
   for i in range(1, 8001):
